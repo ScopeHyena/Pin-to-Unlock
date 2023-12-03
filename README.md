@@ -5,6 +5,7 @@ A Wordle-like game, guess correct PIN in 10 times!
 This is SwiftUI Playground App Project with iPad.
 
 It's Toy Project and I cannot release this.
+
 ---
 SwiftUI 플레이그라운드 앱 프로젝트이며, iPad를 이용해 작성되었습니다.
 
